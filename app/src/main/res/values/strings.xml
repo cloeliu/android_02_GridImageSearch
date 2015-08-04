@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GridImageSearch</string>
+    <string name="btn_search">Search!</string>
+    <string name="action_settings">FILTER</string>
+    <string name="search_prompt">Enter Search Query</string>
+    <string name="image_title">title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="tv_type">Type: </string>
+    <string name="tv_color">Color: </string>
+    <string name="tv_size">Size: </string>
+    <string name="tv_site">Site: </string>
+    <string name="btn_filter">Done</string>
+    <string name="tv_site_hint">ex: yahoo.com</string>
+
+    <string-array name="sp_type">
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+    <string-array name="sp_color">
+        <item>black</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>purple</item>
+        <item>white</item>
+    </string-array>
+    <string-array name="sp_size">
+        <item>icon</item>
+        <item>medium</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+    </string-array>
+</resources>
